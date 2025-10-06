@@ -1,0 +1,9 @@
+{
+  "auto_cleanup_enabled": false,
+  "auto_cleanup_period": "一周内",
+  "auto_cleanup_custom_days": "30",
+  "history_search_type": "命名搜索",
+  "cleanup_period": "三天内",
+  "cleanup_custom_days": 30,
+  "full_setup_complete": false
+}

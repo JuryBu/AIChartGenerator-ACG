@@ -1,0 +1,57 @@
+{
+  "api_type": null,
+  "external_api": {
+    "base_url": "",
+    "api_key": "",
+    "model": ""
+  },
+  "local_api": {
+    "base_url": "",
+    "api_key": "",
+    "model": ""
+  },
+  "common_external_models": [
+    "gemini-2.5-pro",
+    "gemini-1.5-pro-latest",
+    "gemini-1.5-flash-latest",
+    "gemini-2.5-flash",
+    "gemini-2.0-flash",
+    "gemini-1.5-pro",
+    "gemini-1.5-pro-002",
+    "gemini-1.5-flash",
+    "gemini-1.5-flash-8b",
+    "gemini-2.0-flash-exp",
+    "gemini-2.0-flash-exp-image-generation",
+    "gemini-2.0-flash-lite",
+    "gemini-2.0-flash-lite-preview",
+    "gemini-2.0-flash-live-001",
+    "gemini-2.0-flash-preview-image-generation",
+    "gemini-2.0-flash-thinking-exp",
+    "gemini-2.0-flash-thinking-exp-01-21",
+    "gemini-2.0-pro-exp",
+    "gemini-2.5-flash-image-preview",
+    "gemini-2.5-flash-lite",
+    "gemini-2.5-flash-lite-preview-06-17",
+    "gemini-2.5-flash-nothinking",
+    "gemini-2.5-flash-preview-04-17",
+    "gemini-2.5-flash-preview-04-17-nothinking",
+    "gemini-2.5-flash-preview-04-17-thinking",
+    "gemini-2.5-pro-exp-03-25",
+    "gemini-2.5-pro-nothinking",
+    "gemini-2.5-pro-preview-03-25",
+    "gemini-2.5-pro-preview-05-06",
+    "gemini-2.5-pro-preview-06-05",
+    "gemini-2.5-pro-thinking-128",
+    "gemini-exp-1206",
+    "gemini-flash-nothinking"
+  ],
+  "plotting_font": "NotoSansSC",
+  "font_mapping": {
+    "黑体 (SimHei)": "simhei.ttf",
+    "NotoSansSC": "NotoSansSC.ttf",
+    "Times New Roman(仅限全英图表)": "times.ttf",
+    "NotoSerifSC": "NotoSerifSC.ttf"
+  },
+  "max_retries": 3,
+  "system_prompt": ""
+}
