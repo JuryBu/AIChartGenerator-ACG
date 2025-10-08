@@ -15,6 +15,7 @@ a = Analysis(
         ('navigator_history.json', '.'),
         ('requirements_core.txt', '.'),
         ('requirements_heavy.txt', '.'),
+        ('read_file_content.py', '.'),
         ('download_models.py', '.'),
         ('font_manager_window.py', '.'),
         ('help_window.py', '.'),
