@@ -5,6 +5,7 @@ h5py
 html2image
 imageio
 Jinja2
+keras-tcn
 lmfit
 lxml
 Markdown
