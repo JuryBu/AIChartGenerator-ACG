@@ -1,4 +1,5 @@
 --trusted-host pypi.tuna.tsinghua.edu.cn
+
 accelerate
 astropy
 backtrader
@@ -6,8 +7,11 @@ biopython
 darts
 einops
 faiss-cpu
+fastapi
+gluonts
 jieba
 lightgbm
+mlflow
 moviepy
 onnx
 onnxruntime
@@ -16,6 +20,7 @@ optimum
 optuna
 pmdarima
 poliastro
+prophet
 pydicom
 PySpice
 pyvista
@@ -25,6 +30,8 @@ safetensors
 scikit-bio
 sentence-transformers
 skyfield
+sktime
+statsforecast
 statsmodels
 tensorflow
 tf-keras
@@ -34,6 +41,10 @@ torchaudio
 torchvision
 transformers
 trimesh
+tsfresh
 umap-learn
+uvicorn
+wandb
 xgboost
+xformers
 yfinance

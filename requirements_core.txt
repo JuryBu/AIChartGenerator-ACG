@@ -1,4 +1,5 @@
 --trusted-host pypi.tuna.tsinghua.edu.cn
+
 beautifulsoup4
 cairosvg
 h5py
@@ -29,7 +30,6 @@ pywebview[pyqt5]
 pywin32
 pyyaml
 python-docx
-python-dotenv
 python-pptx
 pyarrow
 requests
